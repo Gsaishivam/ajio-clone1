@@ -6,7 +6,7 @@ Using HTML, CSS, and JavaScript, I have recreated the key features and visual el
 Please note that this is solely a frontend replica, meaning that it does not include any backend functionality or real-time data integration. It serves as a demonstration of my ability to replicate complex user interfaces and create interactive web experiences.
 
 
-# To Visit The Website  [Click Here] (https://harshavardhan-b20.github.io/Ajio-Clone/)
+# To Visit The Website  [Click Here](https://harshavardhan-b20.github.io/Ajio-Clone/)
 
 
 # Screenshots
